@@ -5,7 +5,7 @@ Api to retrieve css from the wayback machine.
 ## Installation
 
 ```bash
-ghclone cssstats/wayback-css-api && cd $_
+git clone https://github.com/cssstats/wayback-css-api && cd $_
 npm i && npm start
 ```
 
