@@ -15,6 +15,12 @@ npm i && npm start
 curl 'localhost:3000?url=johnotander.com&timestamp=20150222'
 ```
 
+You can also add the `stats` query param to get cssstats back
+
+```sh
+curl 'localhost:3000?url=johnotander.com&timestamp=20150222&stats=true'
+```
+
 ## License
 
 MIT

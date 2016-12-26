@@ -8,6 +8,7 @@
   "repository": "cssstats/wayback-css-api",
   "license": "MIT",
   "dependencies": {
+    "cssstats": "^3.0.0",
     "get-query-param": "^2.0.0",
     "is-blank": "^1.1.0",
     "micro": "^6.1.0",
