@@ -1,0 +1,17 @@
+{
+  "name": "wayback-css-api",
+  "description": "Api to retrieve css from the wayback machine",
+  "author": "John Otander",
+  "scripts": {
+    "start": "micro index.js"
+  },
+  "repository": "cssstats/wayback-css-api",
+  "license": "MIT",
+  "dependencies": {
+    "get-query-param": "^2.0.0",
+    "is-blank": "^1.1.0",
+    "micro": "^6.1.0",
+    "wayback-css": "^1.0.0"
+  },
+  "devDependencies": {}
+}
